@@ -1,5 +1,5 @@
 # Dallas Rental Price Prediction
-Author: Ziyue Gong
+Author: Z.G.
 
 Predict rental prices for apartment listings in **Dallas, Texas** using a cleaned subset of the “Apartment for Rent Classified” dataset from the UCI Machine-Learning Repository.
 
